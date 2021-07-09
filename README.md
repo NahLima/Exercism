@@ -1,0 +1,2 @@
+# Exercism
+Estudos de algoritmos
